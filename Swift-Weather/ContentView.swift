@@ -16,7 +16,7 @@ struct ContentView: View {
                     Image(systemName: "")
                         .imageScale(.large)
                         .foregroundColor(.accentColor)
-                    Text("Hello, world!")
+                    Text("Swift Weather!")
                 }
                 .padding()
                 Button(/*@START_MENU_TOKEN@*/"Button"/*@END_MENU_TOKEN@*/) {
